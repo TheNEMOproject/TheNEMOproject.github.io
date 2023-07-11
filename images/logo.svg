@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180.37 102.27">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 79.58px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #e6e7e8;
+      }
+
+      .cls-2 {
+        font-family: Ayuthaya, Ayuthaya;
+        font-size: 72px;
+        letter-spacing: .01em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(107.87 67.38) scale(.92 1)"><tspan x="0" y="0">?</tspan></text>
+  <text class="cls-1" transform="translate(111.59 66.61) rotate(-180) scale(.92 -1)"><tspan x="0" y="0">?</tspan></text>
+  <text class="cls-2" transform="translate(0 66.82)"><tspan x="0" y="0">NE</tspan></text>
+  <text class="cls-2" transform="translate(136.38 66.82)"><tspan x="0" y="0">O</tspan></text>
+</svg>
