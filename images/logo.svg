@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 265.68 97.82">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 203.35 74.73">
   <defs>
     <style>
       .cls-1 {
         fill: #fff;
         font-family: Ayuthaya, Ayuthaya;
-        font-size: 72px;
+        font-size: 55px;
         letter-spacing: .01em;
       }
     </style>
   </defs>
-  <text class="cls-1" transform="translate(45.72 62.37)"><tspan x="0" y="0">NEMO?</tspan></text>
-  <text class="cls-1" transform="translate(43.99 62.33) rotate(-180) scale(1 -1)"><tspan x="0" y="0">?</tspan></text>
+  <text class="cls-1" transform="translate(35.33 47.65)"><tspan x="0" y="0">NEMO?</tspan></text>
+  <text class="cls-1" transform="translate(33.6 47.61) rotate(-180) scale(1 -1)"><tspan x="0" y="0">?</tspan></text>
 </svg>
