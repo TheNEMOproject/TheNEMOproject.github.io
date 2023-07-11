@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 182.95 78.47">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .01em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 72px;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(105.44 60.26) scale(1.01 1)"><tspan x="0" y="0">?</tspan></text>
+  <text class="cls-2" transform="translate(109.16 60.47) rotate(-180) scale(1.01 -1)"><tspan x="0" y="0">?</tspan></text>
+  <text class="cls-1" transform="translate(0 60.26)"><tspan x="0" y="0" xml:space="preserve">NE   O</tspan></text>
+</svg>
