@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176.61 85.43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a7a9ac;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 72px;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(105.42 67.22) scale(1.01 1)"><tspan x="0" y="0">?</tspan></text>
+  <text class="cls-1" transform="translate(109.14 67.43) rotate(-180) scale(1.01 -1)"><tspan x="0" y="0">?</tspan></text>
+  <text class="cls-1" transform="translate(0 60.26)"><tspan x="0" y="0" xml:space="preserve">ne    o</tspan></text>
+</svg>
