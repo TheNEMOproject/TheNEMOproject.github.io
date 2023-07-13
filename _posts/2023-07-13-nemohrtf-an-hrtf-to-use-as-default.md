@@ -1,8 +1,6 @@
 ---
 date: 2023-07-13
 title: The NEMOhrtf release (beta version).
-categories:
-  - sales
 author_staff_member: anna
 ---
 
