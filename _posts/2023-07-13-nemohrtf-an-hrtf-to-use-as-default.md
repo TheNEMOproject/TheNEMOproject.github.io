@@ -1,9 +1,9 @@
 ---
 date: 2023-07-13
-title: NEMOhrtf: A dataset to be used as ... (beta version).
+title: The NEMOhrtf release (beta version).
 categories:
-  - new release
-author_staff_member: pllado
+  - sales
+author_staff_member: anna
 ---
 
 This is an example of a news post.
