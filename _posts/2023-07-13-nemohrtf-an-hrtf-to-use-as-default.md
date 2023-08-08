@@ -2,7 +2,7 @@
 date: 2023-07-13
 title: The NEMOhrtf release (beta version)
 categories:
-author_staff_member: anna
+author_staff_member: NEMO
 ---
 
 This is an example of a news post.
