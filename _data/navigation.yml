@@ -22,3 +22,7 @@
   link: /contact/
   new_window: false
   highlight: false
+- name: Forum
+  link: https://github.com/TheNEMOproject/NEMOhrtf/discussions
+  new_window: true
+  highlight: false
