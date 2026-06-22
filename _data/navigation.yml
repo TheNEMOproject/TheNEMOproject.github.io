@@ -2,6 +2,10 @@
   link: /about/
   new_window: false
   highlight: false
+- name: Research
+  link: /research/
+  new_window: false
+  highlight: false
 - name: Downloads
   link: /downloads/
   new_window: false
